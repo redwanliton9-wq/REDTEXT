@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Redtext</string>
+    <string name="tagline">Access Anywhere • Secure Vault</string>
+    <string name="email_verification_title">Email Verification</string>
+    <string name="email_verification_subtitle">Enter your authorized email to unlock Redtext vault</string>
+    <string name="verify_code_title">Enter Security Code</string>
+    <string name="verify_device_title">Device Authorization</string>
+</resources>

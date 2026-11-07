@@ -1,0 +1,6 @@
+{
+  "name": "Redtext",
+  "description": "Secure encrypted vault and text access from anywhere with verified email authentication and device verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
